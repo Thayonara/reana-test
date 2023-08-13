@@ -4,7 +4,7 @@ spl=$1
 n_evolutions=$2
 n_iterations=$3
 
-EVAL_DIR=/reana-evaluation
+EVAL_DIR=/reana-test
 ANALYSIS_DIR=/reana-data
 OUTPUT_DIR=/root/results
 
